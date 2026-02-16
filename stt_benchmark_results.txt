@@ -1,0 +1,1506 @@
+--- [Result BENCHMARK STT] ---
+
+--- [Test 001] ---
+File: audio_files_ground_truth\001_audio.wav
+Truth: 'Παρακαλώ συνδέστε με στο τμήμα Azure Synapse.'
+[Azure Result]:   'Παρακαλώ Συνδέστε με στο τμήμα Azures since.'
+
+[Google Result]:   'Παρακαλώ συνδέστε με στο τμήμα ζόρι synapse'
+
+[AssemblyAI Result]:   'παρακαλώ συνδέστε με στο τμήμα Azure Synapse.'
+
+[Whisper Result]:   'Παρακαλώ συνδέστεμε στον τμήμα Azure Synapse.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Παρακαλώ συνδέστε με στο τμήμα Azure Synapse.'
+[LLM Final Score]: 100%
+
+--- [Test 002] ---
+File: audio_files_ground_truth\002_audio.wav
+Truth: 'Το CI/CD pipeline στο Azure DevOps απέτυχε χθες το βράδυ.'
+[Azure Result]:   'Το CD pippline στο Azer Devops απέτυχε χθες το βράδυ.'
+
+[Google Result]:   'σοσιαλιστική pipeline στο azure devops απέτυχε χθες το βράδυ'
+
+[AssemblyAI Result]:   'Το CICD pipeline στο Azure DevOps απέτυχε χθες το βράδυ.'
+
+[Whisper Result]:   'Το CI-CD pipeline στο Azure DevOps απέτοιχε χθες το βράδυ.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το CI/CD pipeline στο Azure DevOps απέτυχε χθες το βράδυ.'
+[LLM Final Score]: 100%
+
+--- [Test 003] ---
+File: audio_files_ground_truth\003_audio.wav
+Truth: 'Πρέπει να κάνουμε deploy το container στο Kubernetes cluster.'
+[Azure Result]:   'Πρέπει να κάνουμε διπλό ή το κοντέινερ στο κομπεέ της cluster;'
+
+[Google Result]:   'πρέπει να κάνουμε διπλό ή το container στο κοπελιά της cluster'
+
+[AssemblyAI Result]:   'πρέπει να κάνουμε deploy το container στο Kubernetes cluster.'
+
+[Whisper Result]:   'Πρέπει να κάνουμε Deploy to Containers to Kubernetes Cluster.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Πρέπει να κάνουμε deploy το container στο Kubernetes cluster.'
+[LLM Final Score]: 100%
+
+--- [Test 004] ---
+File: audio_files_ground_truth\004_audio.wav
+Truth: 'Έλεγξες τα logs στο Application Insights για να δεις το σφάλμα;'
+[Azure Result]:   'Έλεγξες τα lox στο application in sights για να δεις το σφάλμα;'
+
+[Google Result]:   'έλεγξε στα love Στο application insights για να δεις το σφάλμα'
+
+[AssemblyAI Result]:   'Έλεγξε στα logs του Application Insights για να δεις το σφάλμα.'
+
+[Whisper Result]:   'Έλεξες τα logs του application insights για να δεις το σφάλμα.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Έλεγξες τα logs του Application Insights για να δεις το σφάλμα;'
+[LLM Final Score]: 98%
+
+--- [Test 005] ---
+File: audio_files_ground_truth\005_audio.wav
+Truth: 'Το μοντέλο GPT-4 έδωσε πολύ καλύτερα αποτελέσματα από το προηγούμενο.'
+[Azure Result]:   'Το μοντέλο gpt cessra έδωσε πολύ καλύτερα αποτελέσματα από το προηγούμενο.'
+
+[Google Result]:   'το μοντέλο G4 έδωσε πολύ καλύτερα αποτελέσματα από το προηγούμενο'
+
+[AssemblyAI Result]:   'Το μοντέλο GPT-4 έδωσε πολύ καλύτερα αποτελέσματα από το προηγούμενο.'
+
+[Whisper Result]:   'Το μοντέλο GPT-4 έδωσε πολύ καλύτερα αποτελέσματα από το προηγούμενο.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το μοντέλο GPT-4 έδωσε πολύ καλύτερα αποτελέσματα από το προηγούμενο.'
+[LLM Final Score]: 100%
+
+--- [Test 006] ---
+File: audio_files_ground_truth\006_audio.wav
+Truth: 'Η kalimera.ai εστιάζει στο prompt engineering και στα MLOps.'
+[Azure Result]:   'Η καλημέρα του ότι εστιάζει στο prop engineering και στα.'
+
+[Google Result]:   'η καλημέρα του Βασίλη εστιάζει στο πρώην την Ειρήνη και στα ε'
+
+[AssemblyAI Result]:   'Η καλημέρα του ATI εστιάζει στο Prompt Engineering και στα MLOps.'
+
+[Whisper Result]:   'Η καλημέρα το ατήι εστιάζει στο prompt engineering και στα MLops.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η καλημέρα του Βασίλη εστιάζει στο Prompt Engineering και στα MLOps.'
+[LLM Final Score]: 89%
+
+--- [Test 007] ---
+File: audio_files_ground_truth\007_audio.wav
+Truth: 'Το API του Soniox φαίνεται να έχει το χαμηλότερο latency.'
+[Azure Result]:   'Το APP του Sony Ox φαίνεται να έχει το χαμηλότερο legency.'
+
+[Google Result]:   'το API του sony x φαίνεται να έχει το χαμηλότερο latency'
+
+[AssemblyAI Result]:   'Το API του Soniox φαίνεται να έχει το χαμηλότερο latency.'
+
+[Whisper Result]:   'Το API του Sony Ox φαίνεται να έχει το χαμηλότερο latency.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το API του Soniox φαίνεται να έχει το χαμηλότερο latency.'
+[LLM Final Score]: 100%
+
+--- [Test 008] ---
+File: audio_files_ground_truth\008_audio.wav
+Truth: 'Κάνε commit τον κώδικα στο GitHub repository μόλις τελειώσεις.'
+[Azure Result]:   'Κάνε committee τον κώδικα στο Git Huber Repository μόλις τελειώσεις.'
+
+[Google Result]:   'κάνε κομητών κώδικας τον κάποιο ποζέρι μόλις τελειώσεις'
+
+[AssemblyAI Result]:   'Κάνε commit τον κώδικα στο GitHub repository μόλις τελειώσεις.'
+
+[Whisper Result]:   'κάνε κομμύτ στον κόδικα στο GitHub repositor η μόλις τελειώσεις.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Κάνε commit τον κώδικα στο GitHub repository μόλις τελειώσεις.'
+[LLM Final Score]: 100%
+
+--- [Test 009] ---
+File: audio_files_ground_truth\009_audio.wav
+Truth: 'Το subscription στο ElevenLabs λήγει τον επόμενο μήνα.'
+[Azure Result]:   'Το subscribion στο Elven Labs λήγει τον επόμενο μήνα.'
+
+[Google Result]:   'το subscription στο level λήγει τον επόμενο μήνα'
+
+[AssemblyAI Result]:   'Το subscription στο Eleven Labs λύγει τον επόμενο μήνα.'
+
+[Whisper Result]:   'Το subscription στο 11labs λίγη τον επόμενο μήνα.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το subscription στο Eleven Labs λήγει τον επόμενο μήνα.'
+[LLM Final Score]: 99%
+
+--- [Test 010] ---
+File: audio_files_ground_truth\010_audio.wav
+Truth: 'Το AssemblyAI παρέχει word-level timestamps, που είναι πολύ χρήσιμο.'
+[Azure Result]:   'Το Assemble Ai παρέχει word level Times που είναι πολύ χρήσιμο.'
+
+[Google Result]:   'to assembly a fuel level timestamps που είναι πολύ χρήσιμο'
+
+[AssemblyAI Result]:   'Το Assembly AI παρέχει world-level timestamps που είναι πολύ χρήσιμο.'
+
+[Whisper Result]:   'Το Ασέμπλιο AI παρέχει World Level Timestamps που είναι πολύ χρήσιμο.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το Assembly AI παρέχει word-level timestamps που είναι πολύ χρήσιμο.'
+[LLM Final Score]: 96%
+
+--- [Test 011] ---
+File: audio_files_ground_truth\011_audio.wav
+Truth: 'Το Docker container απέτυχε να ξεκινήσει λόγω έλλειψης μνήμης.'
+[Azure Result]:   'Το ντόκερ Κοντσέρα απέτυχε να ξεκινήσει λόγω έλλειψης μνήμης.'
+
+[Google Result]:   'το docker container απέτυχε να ξεκινήσει λόγω έλλειψης μνήμης'
+
+[AssemblyAI Result]:   'Το ντόκερ κοντέινερ απέτυχε να ξεκινήσει λόγω έλλειψης μνήμης.'
+
+[Whisper Result]:   'Το Docker Container απέτυχε να ξεκινήσει λόγο έλειψεις μνήμης.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το Docker container απέτυχε να ξεκινήσει λόγω έλλειψης μνήμης.'
+[LLM Final Score]: 100%
+
+--- [Test 012] ---
+File: audio_files_ground_truth\012_audio.wav
+Truth: 'Η πρόσβαση στο VM γίνεται μέσω SSH key.'
+[Azure Result]:   'Η πρόσβαση στο Vm γίνεται μέσω ssh.'
+
+[Google Result]:   'η πρόσβαση στο vm γίνεται μέσω ssh'
+
+[AssemblyAI Result]:   'Η πρόσβαση στο VM γίνεται μέσω SSH key.'
+
+[Whisper Result]:   'Η πρόσβαση στο VM γίνεται μέσω SSHK.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η πρόσβαση στο VM γίνεται μέσω SSH.'
+[LLM Final Score]: 100%
+
+--- [Test 013] ---
+File: audio_files_ground_truth\013_audio.wav
+Truth: 'Το VNet peering μεταξύ των δύο subscriptions ολοκληρώθηκε.'
+[Azure Result]:   'Το vined piring μεταξύ των 2 subscribions ολοκληρώθηκε.'
+
+[Google Result]:   'τον πίνετε Ειρήνη μεταξύ των δύο subscription θα ολοκληρωθεί'
+
+[AssemblyAI Result]:   'Το VNet peering μεταξύ των δύο subscriptions ολοκληρώθηκε.'
+
+[Whisper Result]:   'Το VINET PIRING μεταξύ των 2 subs όλο κληρώθηκε.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το VNet peering μεταξύ των δύο subscriptions ολοκληρώθηκε.'
+[LLM Final Score]: 100%
+
+--- [Test 014] ---
+File: audio_files_ground_truth\014_audio.wav
+Truth: 'Η βάση δεδομένων μας είναι μια Azure SQL instance.'
+[Azure Result]:   'Η βάση δεδομένων μας είναι μία azuresculinstance.'
+
+[Google Result]:   'η βάση δεδομένων μας είναι μία azure sql instance'
+
+[AssemblyAI Result]:   'Η βάση δεδομένων μας είναι μια Azure SQL Instance.'
+
+[Whisper Result]:   'Η βάση δεδομένων μας είναι μια Azure SQL Instance.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η βάση δεδομένων μας είναι μια Azure SQL Instance.'
+[LLM Final Score]: 100%
+
+--- [Test 015] ---
+File: audio_files_ground_truth\015_audio.wav
+Truth: 'Πρέπει να ρυθμίσουμε τα firewall rules και τα NSGs.'
+[Azure Result]:   'Πρέπει να ρυθμίσουμε τα fire Wall rules και τα n sgs.'
+
+[Google Result]:   'πρέπει να ρυθμίσουμε τα firewall rules και τα energy'
+
+[AssemblyAI Result]:   'πρέπει να αριθμίσουμε τα Firewall Rules και τα NSGs.'
+
+[Whisper Result]:   'πρέπει να αριθμίσουμε τα Firewall Rules και τα NSGs.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Πρέπει να ρυθμίσουμε τα firewall rules και τα NSGs.'
+[LLM Final Score]: 100%
+
+--- [Test 016] ---
+File: audio_files_ground_truth\016_audio.wav
+Truth: 'Το API key για το Gemini API έχει λήξει.'
+[Azure Result]:   'Το APP I Key για το jemap έχει λήξει.'
+
+[Google Result]:   'το ήπια εκεί για το Gemini Τι έχει λήξει'
+
+[AssemblyAI Result]:   'Το API key για το Gemini API έχει λήξει.'
+
+[Whisper Result]:   'Το API key για το Gemina API έχει λίξει.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το API key για το Gemini API έχει λήξει.'
+[LLM Final Score]: 100%
+
+--- [Test 017] ---
+File: audio_files_ground_truth\017_audio.wav
+Truth: 'Το μοντέλο speech-to-text της Google ονομάζεται Chirp.'
+[Azure Result]:   'Το μοντέλο speech to text της Google ονομάζεται Chip.'
+
+[Google Result]:   'το μοντέλο speech to text της Google ονομάζεται'
+
+[AssemblyAI Result]:   'Το μοντέλο speech-to-text is Google ονομάζεται Chirp.'
+
+[Whisper Result]:   'Το μοδέλος pitch to text της Google ονομάζεται chirp.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το μοντέλο speech to text της Google ονομάζεται Chirp.'
+[LLM Final Score]: 100%
+
+--- [Test 018] ---
+File: audio_files_ground_truth\018_audio.wav
+Truth: 'Η εκπαίδευση του μοντέλου έγινε σε ένα A100 GPU.'
+[Azure Result]:   'Η εκπαίδευση του μοντέλου έγινε σε ένα actu.'
+
+[Google Result]:   'η εκπαίδευση του μοντέλου έγινες 16 GB'
+
+[AssemblyAI Result]:   'Η εκπαίδευση του μοντέλου έγινε σε ένα Acer GPU.'
+
+[Whisper Result]:   'Η εκπαίδευση του μοντέλου έγινε σε ένα Acro GPU.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η εκπαίδευση του μοντέλου έγινε σε ένα Acer GPU.'
+[LLM Final Score]: 94%
+
+--- [Test 019] ---
+File: audio_files_ground_truth\019_audio.wav
+Truth: 'Η αρχιτεκτονική μας είναι βασισμένη σε microservices.'
+[Azure Result]:   'Η αρχιτεκτονική μας είναι βασισμένη σε μικρό services.'
+
+[Google Result]:   'η αρχιτεκτονική μας είναι βασισμένες σε Micro services'
+
+[AssemblyAI Result]:   'Η αρχιτεκτονική μας είναι βασισμένη σε Microservices.'
+
+[Whisper Result]:   'Η αρχιτεκτονική μας είναι βασισμένη σε micro-services.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η αρχιτεκτονική μας είναι βασισμένη σε microservices.'
+[LLM Final Score]: 100%
+
+--- [Test 020] ---
+File: audio_files_ground_truth\020_audio.wav
+Truth: 'Η ομάδα DevOps είναι υπεύθυνη για την υποδομή.'
+[Azure Result]:   'Η Ομάδα devops είναι υπεύθυνη για την υποδομή.'
+
+[Google Result]:   'η ομάδα devops είναι υπεύθυνη για την οικοδομή'
+
+[AssemblyAI Result]:   'Η ομάδα DevOps είναι υπεύθυνη για την υποδομή.'
+
+[Whisper Result]:   'Η ομάδατευοψη είναι υπέφτηνη για την υποδομή.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η ομάδα DevOps είναι υπεύθυνη για την υποδομή.'
+[LLM Final Score]: 100%
+
+--- [Test 021] ---
+File: audio_files_ground_truth\021_audio.wav
+Truth: 'Η πτήση Α305 (Άλφα-τρία-μηδέν-πέντε) φεύγει αύριο στις οκτώ το πρωί.'
+[Azure Result]:   'Η πτήση Άτυσο 5 άλφα 3 0 5 φεύγει αύριο στις 8 το πρωί.'
+
+[Google Result]:   'η πτήση Atletico 5Α 305 φεύγει αύριο στις 8:00 το πρωί'
+
+[AssemblyAI Result]:   'Η πτήση A305-A305 φεύγει αύριο στις 8 το πρωί.'
+
+[Whisper Result]:   'Η πτήση άτρη 105α3-05 φεύγει αύριο στις 8 πρωί.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η πτήση A305 φεύγει αύριο στις 8 το πρωί.'
+[LLM Final Score]: 90%
+
+--- [Test 022] ---
+File: audio_files_ground_truth\022_audio.wav
+Truth: 'Ο κωδικός πρόσβασης είναι Άλφα Ένα Δύο Τρία Κάπα (A123K).'
+[Azure Result]:   'Ο κωδικός πρόσβασης είναι άλφα 1 2 3 κάπα ήταν 20 τρικιά.'
+
+[Google Result]:   'ο κωδικός πρόσβασης είναι Α 123 κ οι 123'
+
+[AssemblyAI Result]:   'Ο κωδικός πρόσβασης είναι α123k a23k.'
+
+[Whisper Result]:   'Ο κοδικός πρόσβασης είναι α1, 2, 3, k, e, 23.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Ο κωδικός πρόσβασης είναι άλφα 1 2 3 κάπα 20 τρικιά.'
+[LLM Final Score]: 82%
+
+--- [Test 023] ---
+File: audio_files_ground_truth\023_audio.wav
+Truth: 'Το ραντεβού είναι προγραμματισμένο για τις είκοσι πέντε Οκτωβρίου του δύο χιλιάδες είκοσι πέντε.'
+[Azure Result]:   'Το ραντεβού είναι προγραμματισμένο για τις 25/10/2025.'
+
+[Google Result]:   'Το ραντεβού είναι προγραμματισμένο για τις 25 Οκτωβρίου του 2025'
+
+[AssemblyAI Result]:   'Το ραντεβού είναι προγραμματισμένο για τις 25 Οκτωβρίου του 2025.'
+
+[Whisper Result]:   'Τώρα, Δεβού είναι προγραμματισμένο για τις 25 Οκτωβρίου του 2025.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το ραντεβού είναι προγραμματισμένο για τις 25 Οκτωβρίου του 2025.'
+[LLM Final Score]: 93%
+
+--- [Test 024] ---
+File: audio_files_ground_truth\024_audio.wav
+Truth: 'Το συνολικό κόστος ανέρχεται στα χίλια πεντακόσια ευρώ και πενήντα λεπτά.'
+[Azure Result]:   'Το συνολικό κόστος ανέρχεται στα 1.500,50€.'
+
+[Google Result]:   'το συνολικό κόστος ανέρχεται στα 1.500 ευρώ και 50 λεπτά'
+
+[AssemblyAI Result]:   'Το συνολικό κόστος ανέρχεται στα €1.500,50.'
+
+[Whisper Result]:   'Το συνολικό κόστος αν έρχεται στα 1500 ευρώ και 50 λεπτά.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το συνολικό κόστος ανέρχεται στα 1.500,50€.'
+[LLM Final Score]: 88%
+
+--- [Test 025] ---
+File: audio_files_ground_truth\025_audio.wav
+Truth: 'Ο αριθμός τηλεφώνου μου είναι έξι εννέα οκτώ, μηδέν ένα δύο τρία, τέσσερα πέντε έξι.'
+[Azure Result]:   'Ο αριθμός τηλεφώνου μου είναι 6980123456.'
+
+[Google Result]:   'ο αριθμός τηλεφώνου μου είναι 6 9 8 0 1 2 3 4 5 6'
+
+[AssemblyAI Result]:   'Ο αριθμός τηλεφώνου μου είναι 698-0123456.'
+
+[Whisper Result]:   'Ο αριθμός τηλεφώνου μου είναι 698, 01123456'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Ο αριθμός τηλεφώνου μου είναι 6980123456.'
+[LLM Final Score]: 84%
+
+--- [Test 026] ---
+File: audio_files_ground_truth\026_audio.wav
+Truth: 'Το ποσοστό ανεργίας μειώDηκε στο οκτώ κόμμα δύο τοις εκατό (8.2%).'
+[Azure Result]:   'Το ποσοστό ανεργίας μειώθηκε στο 8,2% 8,2%.'
+
+[Google Result]:   'το ποσοστό ανεργίας μειώθηκε στο 8,2% 8,2%'
+
+[AssemblyAI Result]:   'Το ποσοστό ανεργίας μειώντηκε στο 8,2%.'
+
+[Whisper Result]:   'Το ποσοστό ανεργίας μειώνει και στο 8,2%'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το ποσοστό ανεργίας μειώθηκε στο 8,2%.'
+[LLM Final Score]: 86%
+
+--- [Test 027] ---
+File: audio_files_ground_truth\027_audio.wav
+Truth: 'Η θερμοκρασία σήμερα θα φτάσει τους τριάντα πέντε βαθμούς Κελσίου (35°C).'
+[Azure Result]:   'Η θερμοκρασία σήμερα θα φτάσει τους 35°C 3 5 Κρασα.'
+
+[Google Result]:   'η θερμοκρασία σήμερα θα φτάσει τους 35 βαθμούς Κελσίου 35'
+
+[AssemblyAI Result]:   'Η θερμοκρασία σήμερα θα φτάσει τους 35 βαθμούς Κελσίου.'
+
+[Whisper Result]:   'Η θερμοκρασία σήμερα θα φτάσει τους 35 βαθμούς κελσίου. 35 γρασσάρεις.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η θερμοκρασία σήμερα θα φτάσει τους 35 βαθμούς Κελσίου.'
+[LLM Final Score]: 97%
+
+--- [Test 028] ---
+File: audio_files_ground_truth\028_audio.wav
+Truth: 'Ο ταχυδρομικός κώδικας για την περιοχή είναι πέντε τέσσερα έξι δύο δύο (54622).'
+[Azure Result]:   'Ο ταχυδρομικός κώδικας για την περιοχή είναι 5, 4 6 2 πεντάλτσα 622.'
+
+[Google Result]:   'ο ταχυδρομικός κώδικας για την περιοχή είναι 546 22 546 22'
+
+[AssemblyAI Result]:   'Ο ταχυδρομικός κώδικας για την περιοχή είναι 54622-56622.'
+
+[Whisper Result]:   'Ο ταχυδρομικός κόδικας για την περιοχή είναι 546622, 5.62622.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Ο ταχυδρομικός κώδικας για την περιοχή είναι 54622.'
+[LLM Final Score]: 100%
+
+--- [Test 029] ---
+File: audio_files_ground_truth\029_audio.wav
+Truth: 'Η πτήση BA249 (Βήτα-Άλφα-δύο-τέσσερα-εννιά) έχει καθυστέρηση μίας ώρας.'
+[Azure Result]:   'Η P cbas 2049, βήτα άλφα 2 4 9 έχει καθυστέρηση μιας ώρας.'
+
+[Google Result]:   'η πτήση ba 249 β α 249 έχει καθυστέρηση μίας ώρας'
+
+[AssemblyAI Result]:   'Η πτήση BA249-VA249 έχει καθυστέρηση 1 ώρας.'
+
+[Whisper Result]:   'Η πτή cpa29 vα249 έχει καθιστέρηση μία σ ώρας.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η πτήση BA249-VA249 έχει καθυστέρηση μίας ώρας.'
+[LLM Final Score]: 93%
+
+--- [Test 030] ---
+File: audio_files_ground_truth\030_audio.wav
+Truth: 'Η παραγγελία σας έχει τον αριθμό #100-567 (δίεση ένα-μηδέν-μηδέν-πέντε-έξι-επτά).'
+[Azure Result]:   'Η παραγγελία σας έχει τον αριθμό me account opena στα 67 2100567.'
+
+[Google Result]:   'η παραγγελία σας έχει τον αριθμό myaccount 5367 δίεση 100 567'
+
+[AssemblyAI Result]:   'Η παραγγελία σας έχει τον αριθμό 0567-100567.'
+
+[Whisper Result]:   'Η παραγγελία σας έχει τον αριθμό mereCount 567, DSi 1050567.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η παραγγελία σας έχει τον αριθμό 67 2100567.'
+[LLM Final Score]: 85%
+
+--- [Test 031] ---
+File: audio_files_ground_truth\031_audio.wav
+Truth: 'Το δωμάτιο του ξενοδοχείου είναι το 204Β (διακόσια τέσσερα βήτα).'
+[Azure Result]:   'Το δωμάτιο του ξενοδοχείου είναι το 200 τε S rv 204 βήτα.'
+
+[Google Result]:   'το δωμάτιο του ξενοδοχείου είναι το 204 204β'
+
+[AssemblyAI Result]:   'Το δωμάτιο του ξενοδοχείου είναι το 204V.'
+
+[Whisper Result]:   'Το δωμάτιο του ξενοδοχείου είναι το 204V 204V.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το δωμάτιο του ξενοδοχείου είναι το 204Β.'
+[LLM Final Score]: 100%
+
+--- [Test 032] ---
+File: audio_files_ground_truth\032_audio.wav
+Truth: 'Η ημερομηνία λήξης είναι η 31/12/2026.'
+[Azure Result]:   'Η ημερομηνία λήξης είναι οι 31 στα 12 του και 6.'
+
+[Google Result]:   'ημερομηνία λήξης είναι η 31η 12 2016'
+
+[AssemblyAI Result]:   'Η ημερομηνία λήξης είναι η 31-12-6.'
+
+[Whisper Result]:   'Η μερωμηνή αλήξη είναι η 31-12-26.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η ημερομηνία λήξης είναι η 31-12-2016.'
+[LLM Final Score]: 97%
+
+--- [Test 033] ---
+File: audio_files_ground_truth\033_audio.wav
+Truth: 'Ο λογαριασμός είναι ο 900-512.'
+[Azure Result]:   'Ο λογαριασμός είναι ο εννιακόσα 512.'
+
+[Google Result]:   'ο λογαριασμός είναι ο 905'
+
+[AssemblyAI Result]:   'Ο λογαριασμός είναι ο 9512.'
+
+[Whisper Result]:   'Ολογαριασμός είναι ο 9.512.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Ο λογαριασμός είναι ο 9512.'
+[LLM Final Score]: 90%
+
+--- [Test 034] ---
+File: audio_files_ground_truth\034_audio.wav
+Truth: 'Οκτώ συν οκτώ ίσον δεκαέξι.'
+[Azure Result]:   '8 + 8 ίσον 16.'
+
+[Google Result]:   '8 + 8 = 16'
+
+[AssemblyAI Result]:   '8-8-16'
+
+[Whisper Result]:   '8 στους 8 είναι 16.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: '8 + 8 = 16'
+[LLM Final Score]: 8%
+
+--- [Test 035] ---
+File: audio_files_ground_truth\035_audio.wav
+Truth: 'Ζυγίζει πέντε κιλά και τριακόσια γραμμάρια.'
+[Azure Result]:   'Ζυγίζει 5 kg και 300'
+
+[Google Result]:   'ζυγίζει 5 κιλά και 300 γραμμάρια'
+
+[AssemblyAI Result]:   'Ζυγίζει 5,3 κιλά.'
+
+[Whisper Result]:   'Ζυγίζει 5 κιλά και 300 γραμμάρια.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Ζυγίζει 5 κιλά και 300 γραμμάρια.'
+[LLM Final Score]: 90%
+
+--- [Test 036] ---
+File: audio_files_ground_truth\036_audio.wav
+Truth: 'Το κεφάλαιο δώδεκα, σελίδα ογδόντα οκτώ.'
+[Azure Result]:   'Το κεφάλαιο 12, σελίδα 88.'
+
+[Google Result]:   'το κεφάλαιο 12 σελίδα 88'
+
+[AssemblyAI Result]:   'το κεφάλαιο 12, σελίδα 88.'
+
+[Whisper Result]:   'Το κεφάλαιο 12 σελίδα 88.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το κεφάλαιο 12, σελίδα 88.'
+[LLM Final Score]: 86%
+
+--- [Test 037] ---
+File: audio_files_ground_truth\037_audio.wav
+Truth: 'Το μοντέλο του αυτοκινήτου είναι το X5 M Sport.'
+[Azure Result]:   'Το μοντέλο του αυτοκινήτου είναι το 6 5.'
+
+[Google Result]:   'το μοντέλο του αυτοκινήτου είναι το X5 M'
+
+[AssemblyAI Result]:   'Το μοντέλο του αυτοκίνητου είναι το X5 M Sport.'
+
+[Whisper Result]:   'Το μοντέλο του αυτοκοινή του είναι το X5 DM Sport.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το μοντέλο του αυτοκινήτου είναι το X5 M Sport.'
+[LLM Final Score]: 100%
+
+--- [Test 038] ---
+File: audio_files_ground_truth\038_audio.wav
+Truth: 'Είναι η έκδοση v2.1.3 (βερσιόν δύο τελεία ένα τελεία τρία).'
+[Azure Result]:   'Είναι η έκδοση video 1 3 Version 2 τελεία, ένα τελεία 3.'
+
+[Google Result]:   'είναι η έκδοση V2 13 version 2.1.3'
+
+[AssemblyAI Result]:   'Είναι η έκδοση V2.1.3, Βερσίον 2.1.3.'
+
+[Whisper Result]:   'Είναι η έκδοση βίντεο 1.3, version 2.1.3'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Είναι η έκδοση V2.1.3, Βερσίον 2.1.3.'
+[LLM Final Score]: 81%
+
+--- [Test 039] ---
+File: audio_files_ground_truth\039_audio.wav
+Truth: 'Το ΦΠΑ είναι είκοσι τέσσερα τοις εκατό (24%).'
+[Azure Result]:   'Το fai είναι 24% 20%.'
+
+[Google Result]:   'Σοφία είναι 24% 24%'
+
+[AssemblyAI Result]:   'Το ΦΙΑ είναι 24%'
+
+[Whisper Result]:   'Το φύγαιο είναι 23.23.23.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το ΦΙΑ είναι 24% 20%.'
+[LLM Final Score]: 76%
+
+--- [Test 040] ---
+File: audio_files_ground_truth\040_audio.wav
+Truth: 'Το υπόλοιπό σας είναι μηδέν ευρώ.'
+[Azure Result]:   'Το υπόλοιπό σας είναι 0€.'
+
+[Google Result]:   'το υπόλοιπο σας είναι 0 ευρώ'
+
+[AssemblyAI Result]:   'Το υπόλοιπο σας είναι 0 ευρώ.'
+
+[Whisper Result]:   'Το υπόλοιπο σας είναι μιδέν ευρώ.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το υπόλοιπο σας είναι 0 ευρώ.'
+[LLM Final Score]: 87%
+
+--- [Test 041] ---
+File: audio_files_ground_truth\041_audio.wav
+Truth: 'Ο κύριος Γιώργος Παπαδόπουλος θα σας περιμένει στο γραφείο του.'
+[Azure Result]:   'Ο κύριος Γιώργος Παπαδόπουλος θα σας περιμένει στο γραφείο του.'
+
+[Google Result]:   'ο κύριος Γιώργος Παπαδόπουλος θα σας περιμένει στο γραφείο του'
+
+[AssemblyAI Result]:   'Ο κύριος Γιώργος Παπαδόπουλος θα σας περιμένει στο γραφείο του.'
+
+[Whisper Result]:   'Ο κύριος Γιώργος Παπαδόπουλος θα σας περιμένει στο γραφείο του.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Ο κύριος Γιώργος Παπαδόπουλος θα σας περιμένει στο γραφείο του.'
+[LLM Final Score]: 100%
+
+--- [Test 042] ---
+File: audio_files_ground_truth\042_audio.wav
+Truth: 'Η συνάντηση θα πραγματοποιηθεί στη Λευκωσία, στην Κύπρο.'
+[Azure Result]:   'Η συνάντηση θα πραγματοποιηθεί στη Λευκωσία, στην Κύπρο.'
+
+[Google Result]:   'η συνάντηση θα πραγματοποιηθεί στη Λευκωσία στην Κύπρο'
+
+[AssemblyAI Result]:   'Η συνάντηση θα πραγματοποιηθεί στη Λευκοσία, στην Κύπρο.'
+
+[Whisper Result]:   'Η συνάντηση θα πραγματοποιηθεί στη Λευκωσία στην Κύπρο.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η συνάντηση θα πραγματοποιηθεί στη Λευκωσία, στην Κύπρο.'
+[LLM Final Score]: 100%
+
+--- [Test 043] ---
+File: audio_files_ground_truth\043_audio.wav
+Truth: 'Θα ήθελα να μιλήσω με την κυρία Ελένη Αντωνίου.'
+[Azure Result]:   'Θα ήθελα να μιλήσω με την κυρία Ελένη Αντωνίου.'
+
+[Google Result]:   'θα ήθελα να μιλήσω με την κυρία Ελένη Αντωνίου'
+
+[AssemblyAI Result]:   'Θα ήθελα να μιλήσω με την κυρία Ελένη Αντωνίου.'
+
+[Whisper Result]:   'Θα ήθελα να μιλήσω με την κυρία Ελένη Αντονίου.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Θα ήθελα να μιλήσω με την κυρία Ελένη Αντωνίου.'
+[LLM Final Score]: 100%
+
+--- [Test 044] ---
+File: audio_files_ground_truth\044_audio.wav
+Truth: 'Κλείσαμε τραπέζι στην πλατεία Αριστοτέλους στη Θεσσαλονίκη.'
+[Azure Result]:   'Κλείσαμε τραπέζι στην πλατεία Αριστοτέλους στη Θεσσαλονίκη.'
+
+[Google Result]:   'κλείσαμε τραπέζι στην πλατεία Αριστοτέλους στη Θεσσαλονίκη'
+
+[AssemblyAI Result]:   'Κλείσαμε τραπέζι στην πλατεία Αριστοτέλους στη Θεσσαλονίκη.'
+
+[Whisper Result]:   'Κλείσαμε τραπέζεις την πλατίαριστο τέλους στη Θεσσαλονίκη.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Κλείσαμε τραπέζι στην πλατεία Αριστοτέλους στη Θεσσαλονίκη.'
+[LLM Final Score]: 100%
+
+--- [Test 045] ---
+File: audio_files_ground_truth\045_audio.wav
+Truth: 'Το ραντεβού είναι στο Ιπποκράτειο Νοσοκομείο.'
+[Azure Result]:   'Το ραντεβού είναι στο ιπποκράτειο νοσοκομείο.'
+
+[Google Result]:   'Το ραντεβού είναι στο Ιπποκράτειο νοσοκομείο'
+
+[AssemblyAI Result]:   'Το ραντεβού είναι στο Ιπποκράτιο νοσοκομείο.'
+
+[Whisper Result]:   'Τώρα, αντεβού είναι στο υποκράτηον οσοκομείο.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το ραντεβού είναι στο Ιπποκράτειο νοσοκομείο.'
+[LLM Final Score]: 100%
+
+--- [Test 046] ---
+File: audio_files_ground_truth\046_audio.wav
+Truth: 'Η πτήση φεύγει από το αεροδρόμιο Ελευθέριος Βενιζέλος.'
+[Azure Result]:   'Η πτήση φεύγει από το αεροδρόμιο Ελευθέριος Βενιζέλος.'
+
+[Google Result]:   'η πτήση φεύγει από το αεροδρόμιο Ελευθέριος Βενιζέλος'
+
+[AssemblyAI Result]:   'Η πτήση φεύγει από το αεροδρόμιο Ελευθέριος Βενιζέλος.'
+
+[Whisper Result]:   'Η πτήση φεύγει από το αεροδρόμιο ελευθέριος Βενιζέλος.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η πτήση φεύγει από το αεροδρόμιο Ελευθέριος Βενιζέλος.'
+[LLM Final Score]: 100%
+
+--- [Test 047] ---
+File: audio_files_ground_truth\047_audio.wav
+Truth: 'Ο Κώστας και η Μαρία θα έρθουν μαζί μας.'
+[Azure Result]:   'Ο Κώστας και η Μαρία θα έρθουν μαζί μας.'
+
+[Google Result]:   'ο Κώστας και η Μαρία θα έρθουν μαζί μας'
+
+[AssemblyAI Result]:   'Ο Κώστας και η Μαρία θα έρθουν μαζί μας.'
+
+[Whisper Result]:   'Ο Κώστας και η Μαρία θα έρθουν μαζί μας.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Ο Κώστας και η Μαρία θα έρθουν μαζί μας.'
+[LLM Final Score]: 100%
+
+--- [Test 048] ---
+File: audio_files_ground_truth\048_audio.wav
+Truth: 'Η Αθήνα είναι η πρωτεύουσα της Ελλάδας.'
+[Azure Result]:   'Η Αθήνα είναι η πρωτεύουσα της Ελλάδας.'
+
+[Google Result]:   'Η Αθηνά είναι η πρωτεύουσα της Ελλάδας'
+
+[AssemblyAI Result]:   'Η Αθήνα είναι η πρωτεύουσα της Ελλάδας.'
+
+[Whisper Result]:   'Η Αθήνα είναι η πρωτεύουσα της Ελλάδας.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η Αθήνα είναι η πρωτεύουσα της Ελλάδας.'
+[LLM Final Score]: 100%
+
+--- [Test 049] ---
+File: audio_files_ground_truth\049_audio.wav
+Truth: 'Το Υπουργείο Οικονομικών ανακοίνωσε νέα φορολογικά μέτρα.'
+[Azure Result]:   'Το Υπουργείο Οικονομικών ανακοίνωσε νέα φορολογικά μέτρα.'
+
+[Google Result]:   'το Υπουργείο Οικονομικών ανακοίνωσε νέα φορολογικά μέτρα'
+
+[AssemblyAI Result]:   'Το Υπουργείο Οικονομικών ανακοίνωσε νέα φορολογικά μέτρα.'
+
+[Whisper Result]:   'Το Υπουργείο Εικονομικό να ανακίνω σε νέα φορολογικά μέτρα.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το Υπουργείο Οικονομικών ανακοίνωσε νέα φορολογικά μέτρα.'
+[LLM Final Score]: 100%
+
+--- [Test 050] ---
+File: audio_files_ground_truth\050_audio.wav
+Truth: 'Ο Οργανισμός Τηλεπικοινωνιών Κύπρου ονομάζεται ΣΥΤΑ.'
+[Azure Result]:   'Ο Οργανισμός Τηλεπικοινωνιών Κύπρου ονομάζεται Cita.'
+
+[Google Result]:   'οργανισμός Τηλεπικοινωνιών Κύπρου ονομάζεται Cyta'
+
+[AssemblyAI Result]:   'Ο Οργανισμός Τηλεπικοινωνιών Κύπρου ονομάζεται ΣΥΤΑ.'
+
+[Whisper Result]:   'Ο οργανισμός τηλεπικοινωνίων Κύπρου ονομάζεται Σίτα.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Ο Οργανισμός Τηλεπικοινωνιών Κύπρου ονομάζεται Cyta.'
+[LLM Final Score]: 95%
+
+--- [Test 051] ---
+File: audio_files_ground_truth\051_audio.wav
+Truth: 'Η Τράπεζα της Ελλάδος παρακολουθεί τον πληθωρισμό.'
+[Azure Result]:   'Η Τράπεζα της Ελλάδος παρακολουθεί τον πληθωρισμό.'
+
+[Google Result]:   'η τράπεζα της Ελλάδος παρακολουθεί τον πληθωρισμό'
+
+[AssemblyAI Result]:   'Η Τράπεζα της Ελλάδος παρακολουθεί τον πληθωρισμό.'
+
+[Whisper Result]:   'η τράπεζα της Ελλάδος παρακολουθεί τον πληθορισμό.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η Τράπεζα της Ελλάδος παρακολουθεί τον πληθωρισμό.'
+[LLM Final Score]: 100%
+
+--- [Test 052] ---
+File: audio_files_ground_truth\052_audio.wav
+Truth: 'Ο προμηθευτής μας είναι η εταιρεία "Alpha Beta Solutions".'
+[Azure Result]:   'Ο προμηθευτής μας είναι η εταιρεία άλφα beta solutions.'
+
+[Google Result]:   'ο προμηθευτής μας είναι η εταιρεία alfa-beta Solutions'
+
+[AssemblyAI Result]:   'Ο προμηθευτής μας είναι η εταιρεία Alpha Beta Solutions.'
+
+[Whisper Result]:   'Ο προμηθευτής μας είναι η εταιρία Alpha Beta Solutions.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Ο προμηθευτής μας είναι η εταιρεία Alpha Beta Solutions.'
+[LLM Final Score]: 100%
+
+--- [Test 053] ---
+File: audio_files_ground_truth\053_audio.wav
+Truth: 'Το γραφείο μας βρίσκεται στην οδό Σταδίου πέντε.'
+[Azure Result]:   'Το γραφείο μας βρίσκεται στην οδό σταδίου 5.'
+
+[Google Result]:   'το γραφείο μας βρίσκεται στην οδό Σταδίου 5'
+
+[AssemblyAI Result]:   'Το γραφείο μας βρίσκεται στην οδό στα 2-5.'
+
+[Whisper Result]:   'Το γραφείο μας βρίσκεται στην οδόστα 25.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το γραφείο μας βρίσκεται στην οδό Σταδίου 5.'
+[LLM Final Score]: 98%
+
+--- [Test 054] ---
+File: audio_files_ground_truth\054_audio.wav
+Truth: 'Αγόρασα ένα βιβλίο του Νίκου Καζαντζάκη.'
+[Azure Result]:   'Αγόρασα ένα βιβλίο του Νίκου Καζαντζάκη.'
+
+[Google Result]:   'Αγόρασα ένα βιβλίο του Νίκου Καζαντζάκη'
+
+[AssemblyAI Result]:   'Αγόρασα ένα βιβλίο του Νίκου Καζαντζάκη.'
+
+[Whisper Result]:   'Αγόρασα ένα βιβλίο του Νίκου Καζαντζάκι.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Αγόρασα ένα βιβλίο του Νίκου Καζαντζάκη.'
+[LLM Final Score]: 100%
+
+--- [Test 055] ---
+File: audio_files_ground_truth\055_audio.wav
+Truth: 'Το πλοίο αναχωρεί από το λιμάνι του Πειραιά.'
+[Azure Result]:   'Το πλοίο αναχωρεί από το λιμάνι του Πειραιά.'
+
+[Google Result]:   'το πλοίο αναχωρεί από το λιμάνι του Πειραιά'
+
+[AssemblyAI Result]:   'Το πλοίο αναχωρεί από το λιμάνι του Πειραιά.'
+
+[Whisper Result]:   'το πλίω αναχωρία από το λιμάνι του πυρεά.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το πλοίο αναχωρεί από το λιμάνι του Πειραιά.'
+[LLM Final Score]: 100%
+
+--- [Test 056] ---
+File: audio_files_ground_truth\056_audio.wav
+Truth: 'Η Microsoft και η Google είναι ανταγωνιστές στον τομέα του cloud.'
+[Azure Result]:   'Η Microsoft και η Google είναι ανταγωνιστές στον τομέα του cloud.'
+
+[Google Result]:   'η Microsoft και η Google είναι ανταγωνιστές στον τομέα του cloud'
+
+[AssemblyAI Result]:   'Η Microsoft και η Google είναι ανταγωνιστές στον τομέα του Cloud.'
+
+[Whisper Result]:   'Η Microsoft και η Google είναι ανταγωνιστές των τομέα του Cloud.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η Microsoft και η Google είναι ανταγωνιστές στον τομέα του cloud.'
+[LLM Final Score]: 100%
+
+--- [Test 057] ---
+File: audio_files_ground_truth\057_audio.wav
+Truth: 'Η Apple παρουσίασε το νέο της iPhone.'
+[Azure Result]:   'Η Apple παρουσίασε το νέο της iphone.'
+
+[Google Result]:   'η Apple παρουσίασε το νέο της iPhone'
+
+[AssemblyAI Result]:   'Η Apple παρουσίασε το νέο της iPhone.'
+
+[Whisper Result]:   'και Apple παρουσίασε το νέο της iPhone.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η Apple παρουσίασε το νέο της iPhone.'
+[LLM Final Score]: 100%
+
+--- [Test 058] ---
+File: audio_files_ground_truth\058_audio.wav
+Truth: 'Ο ποταμός Έβρος αποτελεί φυσικό σύνορο.'
+[Azure Result]:   'Ο ποταμός εύρος αποτελεί φυσικό σύρο.'
+
+[Google Result]:   'ο ποταμός Έβρος αποτελεί φυσικό σύνορο'
+
+[AssemblyAI Result]:   'Ο ποταμός Εύρος αποτελεί φυσικό σύνορο.'
+
+[Whisper Result]:   'Ο ποταμός Εύρως αποτελεί φυσικό σύνορο.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Ο ποταμός Έβρος αποτελεί φυσικό σύνορο.'
+[LLM Final Score]: 100%
+
+--- [Test 059] ---
+File: audio_files_ground_truth\059_audio.wav
+Truth: 'Η συνεδρίαση του ΝΑΤΟ θα γίνει στις Βρυξέλλες.'
+[Azure Result]:   'Η συνεδρίαση του ΝΑΤΟ θα γίνει στις Βρυξέλλες.'
+
+[Google Result]:   'η συνεδρίαση του ΝΑΤΟ θα γίνει στις Βρυξέλλες'
+
+[AssemblyAI Result]:   'Οι συνεδρίες του NATO θα γίνουν στις Βρυξέλλες.'
+
+[Whisper Result]:   'Η συναιδρία του Νάτο θα γίνει στις Βρυξέλες.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η συνεδρίαση του ΝΑΤΟ θα γίνει στις Βρυξέλλες.'
+[LLM Final Score]: 100%
+
+--- [Test 060] ---
+File: audio_files_ground_truth\060_audio.wav
+Truth: 'Ο Πέτρος ζήτησε να τον καλέσεις πίσω.'
+[Azure Result]:   'Ο Πέτρος ζήτησε να τον καλέσεις πίσω.'
+
+[Google Result]:   'ο Πέτρος ζήτησε να τον καλέσεις πίσω'
+
+[AssemblyAI Result]:   'Ο Πέτρος ζήτησε να τον καλέσεις πίσω.'
+
+[Whisper Result]:   'Ο Πέτρος ζήτησε να τον γαλέσεις πίσω.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Ο Πέτρος ζήτησε να τον καλέσεις πίσω.'
+[LLM Final Score]: 100%
+
+--- [Test 061] ---
+File: audio_files_ground_truth\061_audio.wav
+Truth: 'Καλημέρα, πώς μπορώ να σας εξυπηρετήσω;'
+[Azure Result]:   'Καλημέρα, πώς μπορώ να σας εξυπηρετήσω;'
+
+[Google Result]:   'Καλημέρα Πώς μπορώ να σας εξυπηρετήσω'
+
+[AssemblyAI Result]:   'Καλημέρα, πώς μπορώ να σας εξυπηρετήσω.'
+
+[Whisper Result]:   'Καλημέρα, πώς μπορώ να σας εξηπηρετήσω.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Καλημέρα, πώς μπορώ να σας εξυπηρετήσω;'
+[LLM Final Score]: 100%
+
+--- [Test 062] ---
+File: audio_files_ground_truth\062_audio.wav
+Truth: 'Πότε είναι το επόμενο διαθέσιμο ραντεβού;'
+[Azure Result]:   'Πότε είναι το επόμενο διαθέσιμο ραντεβού;'
+
+[Google Result]:   'Πότε είναι το επόμενο διαθέσιμο ραντεβού'
+
+[AssemblyAI Result]:   'Πότε είναι το επόμενο διαθέσιμο ραντεβού.'
+
+[Whisper Result]:   'Πότε είναι το επόμενο διαθέσιμο ραντεβού.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Πότε είναι το επόμενο διαθέσιμο ραντεβού;'
+[LLM Final Score]: 100%
+
+--- [Test 063] ---
+File: audio_files_ground_truth\063_audio.wav
+Truth: 'Είστε απολύτως σίγουρος γι' αυτό;'
+[Azure Result]:   'Είστε απολύτως σίγουρος για αυτό.'
+
+[Google Result]:   'είστε απολύτως σίγουρος για αυτό'
+
+[AssemblyAI Result]:   'Είστε απολύτως σίγουρος γι' αυτό.'
+
+[Whisper Result]:   'Είστε πολύ το σίγουρος γι' αυτό.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Είστε απολύτως σίγουρος γι' αυτό.'
+[LLM Final Score]: 100%
+
+--- [Test 064] ---
+File: audio_files_ground_truth\064_audio.wav
+Truth: 'Δεν κατάλαβα, μπορείτε να το επαναλάβετε παρακαλώ;'
+[Azure Result]:   'Δεν κατάλαβαν, μπορείτε να το επαναλάβετε, παρακαλώ.'
+
+[Google Result]:   'δεν κατάλαβα μπορείτε να το επαναλάβετε παρακαλώ'
+
+[AssemblyAI Result]:   'Δεν κατάλαβα. Μπορείτε να το επαναλάβετε, παρακαλώ.'
+
+[Whisper Result]:   'Δεν κατάλαβα μπορείτε να το επαναλάβετε παρακαλώ.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Δεν κατάλαβα. Μπορείτε να το επαναλάβετε, παρακαλώ.'
+[LLM Final Score]: 100%
+
+--- [Test 065] ---
+File: audio_files_ground_truth\065_audio.wav
+Truth: 'Πάμε για φαγητό τώρα.'
+[Azure Result]:   'Πάμε για φαγητό τώρα.'
+
+[Google Result]:   'πάμε για φαγητό τώρα'
+
+[AssemblyAI Result]:   'Πάμε για φαγητό τώρα.'
+
+[Whisper Result]:   'Πάμε για φαγητό τώρα.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Πάμε για φαγητό τώρα.'
+[LLM Final Score]: 100%
+
+--- [Test 066] ---
+File: audio_files_ground_truth\066_audio.wav
+Truth: 'Ποια είναι η γνώμη σου για το θέμα;'
+[Azure Result]:   'Ποια είναι η γνώμη σου για το θέμα;'
+
+[Google Result]:   'Ποια είναι η γνώμη σου για το θέμα'
+
+[AssemblyAI Result]:   'Ποια είναι η γνώμη σου για το θέμα?'
+
+[Whisper Result]:   'Ποια είναι η γνώμη σου για το θέμα?'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Ποια είναι η γνώμη σου για το θέμα;'
+[LLM Final Score]: 100%
+
+--- [Test 067] ---
+File: audio_files_ground_truth\067_audio.wav
+Truth: 'Εντάξει, στείλε μου ένα email με τις λεπτομέρειες.'
+[Azure Result]:   'Εντάξει, στείλε μου ένα e-mail με τις λεπτομέρειες.'
+
+[Google Result]:   'Εντάξει Στείλε μου ένα e-mail με τις λεπτομέρειες'
+
+[AssemblyAI Result]:   'Εντάξει, στείλε μου ένα email με τις λεπτομέρειες.'
+
+[Whisper Result]:   'Εντάξει, στείλε μου ένα email με τις λεπτομέρειες.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Εντάξει, στείλε μου ένα e-mail με τις λεπτομέρειες.'
+[LLM Final Score]: 99%
+
+--- [Test 068] ---
+File: audio_files_ground_truth\068_audio.wav
+Truth: 'Λοιπόν, τι αποφάσισες τελικά;'
+[Azure Result]:   'Λοιπόν, τι αποφάσισες τελικά;'
+
+[Google Result]:   'Λοιπόν τι αποφάσισες τελικά'
+
+[AssemblyAI Result]:   'Λοιπόν, τι αποφάσισες τελικά?'
+
+[Whisper Result]:   'Λοιπόν, τι αποφάσισες τελικά.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Λοιπόν, τι αποφάσισες τελικά;'
+[LLM Final Score]: 100%
+
+--- [Test 069] ---
+File: audio_files_ground_truth\069_audio.wav
+Truth: 'Α, μάλιστα, τώρα καταλαβαίνω.'
+[Azure Result]:   'Α μάλιστα τώρα καταλαβαίνω.'
+
+[Google Result]:   'Α μάλιστα Τώρα καταλαβαίνω'
+
+[AssemblyAI Result]:   'Α, μάλιστα τώρα καταλαβαίνω.'
+
+[Whisper Result]:   'Αν μάλιστα τώρα καταλαβαίνω.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Α, μάλιστα τώρα καταλαβαίνω.'
+[LLM Final Score]: 100%
+
+--- [Test 070] ---
+File: audio_files_ground_truth\070_audio.wav
+Truth: 'Συγγνώμη, νομίζω ότι έκανα λάθος.'
+[Azure Result]:   'Συγγνώμη, νόμιζα ότι έκανα λάθος.'
+
+[Google Result]:   'Συγνώμη νόμιζα ότι έκανα λάθος'
+
+[AssemblyAI Result]:   'Συγγνώμη, νομίζω ότι έκανα λάθος.'
+
+[Whisper Result]:   'Συγνώμη, νομίζω ότι έκανα λάθος.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Συγγνώμη, νομίζω ότι έκανα λάθος.'
+[LLM Final Score]: 100%
+
+--- [Test 071] ---
+File: audio_files_ground_truth\071_audio.wav
+Truth: 'Πόσο κοστίζει αυτό το προϊόν;'
+[Azure Result]:   'Πόσο κοστίζει αυτό το προϊόν;'
+
+[Google Result]:   'Πόσο κοστίζει αυτό το προϊόν'
+
+[AssemblyAI Result]:   'Πόσο κοστίζει αυτό το προϊόν?'
+
+[Whisper Result]:   'Πόσο κοστίζει αυτό το προϊόν.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Πόσο κοστίζει αυτό το προϊόν;'
+[LLM Final Score]: 100%
+
+--- [Test 072] ---
+File: audio_files_ground_truth\072_audio.wav
+Truth: 'Πού βρίσκεται η πλησιέστερη έξοδος;'
+[Azure Result]:   'Που βρίσκεται η πλησιάστερη έξοδος;'
+
+[Google Result]:   'Πού βρίσκεται η πλησιέστερη έξοδο'
+
+[AssemblyAI Result]:   'Πού βρίσκεται η πλησιέστερη έξοδος.'
+
+[Whisper Result]:   'που βρίσκεται η πλησία στεριαίξοδος.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Πού βρίσκεται η πλησιέστερη έξοδος;'
+[LLM Final Score]: 100%
+
+--- [Test 073] ---
+File: audio_files_ground_truth\073_audio.wav
+Truth: 'Θα αργήσω περίπου δέκα λεπτά.'
+[Azure Result]:   'Θα αργήσω περίπου 10 λεπτά.'
+
+[Google Result]:   'θα αργήσω Περίπου 10 λεπτά'
+
+[AssemblyAI Result]:   'Θα αργήσω περίπου 10 λεπτά.'
+
+[Whisper Result]:   'Θα αργήσω περίπου 10 λεπτά.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Θα αργήσω περίπου 10 λεπτά.'
+[LLM Final Score]: 94%
+
+--- [Test 074] ---
+File: audio_files_ground_truth\074_audio.wav
+Truth: 'Τι ώρα κλείνει το κατάστημα;'
+[Azure Result]:   'Τι ώρα κλείνει το κατάστημα;'
+
+[Google Result]:   'τι ώρα κλείνει το κατάστημα'
+
+[AssemblyAI Result]:   'Τι ώρα κλείνει το κατάστημα.'
+
+[Whisper Result]:   'Τι ώρα κλίνει το κατάστημα.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Τι ώρα κλείνει το κατάστημα;'
+[LLM Final Score]: 100%
+
+--- [Test 075] ---
+File: audio_files_ground_truth\075_audio.wav
+Truth: 'Πάτα το πράσινο κουμπί για να ξεκινήσεις.'
+[Azure Result]:   'Πάτα το πράσινο κουμπί για να ξεκινήσεις.'
+
+[Google Result]:   'Πάτα το πράσινο κουμπί για να ξεκινήσεις'
+
+[AssemblyAI Result]:   'Πάτα το πράσινο κουμπί για να ξεκινήσεις.'
+
+[Whisper Result]:   'Πάτα το πράσινο κουμπί για να ξεκινήσεις.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Πάτα το πράσινο κουμπί για να ξεκινήσεις.'
+[LLM Final Score]: 100%
+
+--- [Test 076] ---
+File: audio_files_ground_truth\076_audio.wav
+Truth: 'Όχι, ακύρωσε την τελευταία ενέργεια.'
+[Azure Result]:   'Όχι ακύρωσε την τελευταία'
+
+[Google Result]:   'όχι ακυρώστε την τελευταία ενέργεια'
+
+[AssemblyAI Result]:   'Όχι ακύρωσε την τελευταία ενέργεια.'
+
+[Whisper Result]:   'Όχι, ακύρωσε την τελευταία ενέργεια.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Όχι, ακύρωσε την τελευταία ενέργεια.'
+[LLM Final Score]: 100%
+
+--- [Test 077] ---
+File: audio_files_ground_truth\077_audio.wav
+Truth: 'Σε παρακαλώ, περίμενε στην αναμονή.'
+[Azure Result]:   'Σε παρακαλώ, περίμενες στην αναμονή;'
+
+[Google Result]:   'σε παρακαλώ περίμενε στην αναμονή'
+
+[AssemblyAI Result]:   'Σε παρακαλώ, περίμενε στην αναμονή.'
+
+[Whisper Result]:   'Σε παρακαλώ, περίμενε στην αναμονή.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Σε παρακαλώ, περίμενε στην αναμονή.'
+[LLM Final Score]: 100%
+
+--- [Test 078] ---
+File: audio_files_ground_truth\078_audio.wav
+Truth: 'Φυσικά, θα το ελέγξω αμέσως.'
+[Azure Result]:   'Φυσικά θα το ελέγξω αμέσως.'
+
+[Google Result]:   'φυσικά θα το ελέγξω αμέσως'
+
+[AssemblyAI Result]:   'Φυσικά θα το ελέγξω αμέσως.'
+
+[Whisper Result]:   'Φυσικά θα το ελέγξω αμέσως.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Φυσικά θα το ελέγξω αμέσως.'
+[LLM Final Score]: 100%
+
+--- [Test 079] ---
+File: audio_files_ground_truth\079_audio.wav
+Truth: 'Τέλεια, ευχαριστώ πάρα πολύ για τη βοήθεια.'
+[Azure Result]:   'Τέλεια. Ευχαριστώ πάρα πολύ για τη βοήθεια.'
+
+[Google Result]:   'ευχαριστώ πάρα πολύ για τη βοήθεια'
+
+[AssemblyAI Result]:   'Τέλεια. Ευχαριστώ πάρα πολύ για τη βοήθεια.'
+
+[Whisper Result]:   'Τέλεια, ευχαριστώ πάρα πολύ για τη βοήθεια.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Τέλεια, ευχαριστώ πάρα πολύ για τη βοήθεια.'
+[LLM Final Score]: 100%
+
+--- [Test 080] ---
+File: audio_files_ground_truth\080_audio.wav
+Truth: 'Εμ, δεν είμαι σίγουρος, άσε με να το σκεφτώ.'
+[Azure Result]:   'Δεν είμαι σίγουρος άσε με να το σκεφτώ.'
+
+[Google Result]:   'Δεν είμαι σίγουρος Άσε με να το σκεφτώ'
+
+[AssemblyAI Result]:   'Ε, δεν είμαι σίγουρος. Άσε με να το σκεφτώ.'
+
+[Whisper Result]:   'Εμ, δεν είμαι σίγουρος, άσε με να το σκεφτώ.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Ε, δεν είμαι σίγουρος, άσε με να το σκεφτώ.'
+[LLM Final Score]: 99%
+
+--- [Test 081] ---
+File: audio_files_ground_truth\081_audio.wav
+Truth: 'Η διεπιστημονική ομάδα κατέληξε ομόφωνα στο συμπέρασμα ότι απαιτείται περαιτέρω ανάλυση των δεδομένων.'
+[Azure Result]:   'Η διεπιστημονική ομάδα κατέληξε ομόφωναες στο συμπέρασμα ότι απαιτείται περαιτέρω ανάλυση των δεδομένων.'
+
+[Google Result]:   'η διεπιστημονική ομάδα κατέληξε ομόφωνα στο συμπέρασμα ότι απαιτείται περαιτέρω ανάλυση των δεδομένων'
+
+[AssemblyAI Result]:   'Η διεπιστημονική ομάδα κατέληξε ομόφωνα στο συμπέρασμα ότι απαιτείται περαιτέρω ανάλυση των δεδομένων.'
+
+[Whisper Result]:   'Η Διεπιστήμονική ομάδα κατέληξε ομόφωνα στο συμπέρασμα ότι απαιτείται περαιτέρο ανάλυση των δεδομένων.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η διεπιστημονική ομάδα κατέληξε ομόφωνα στο συμπέρασμα ότι απαιτείται περαιτέρω ανάλυση των δεδομένων.'
+[LLM Final Score]: 100%
+
+--- [Test 082] ---
+File: audio_files_ground_truth\082_audio.wav
+Truth: 'Παρακαλούμε βεβαιωθείτε ότι έχετε διαβάσει προσεκτικά όλους τους όρους και τις προϋποθέσεις πριν υπογράψετε την τελική σύμβαση.'
+[Azure Result]:   'Παρακαλούμε βεβαιωθείτε ότι έχετε διαβάσει προσεκτικά όλους τους όρους και τις προϋποθέσεις πριν υπογράψετε την τελική σύμβαση.'
+
+[Google Result]:   'παρακαλούμε βεβαιωθείτε ότι έχετε διαβάσει προσεκτικά όλους τους όρους και τις προϋποθέσεις πριν υπογράψετε την τελική σύμβαση'
+
+[AssemblyAI Result]:   'Παρακαλούμε βεβαιωθείτε ότι έχετε διαβάσει προσεκτικά όλους τους όρους και τις προϋποθέσεις πριν υπογράψετε την τελική σύμβαση.'
+
+[Whisper Result]:   'Παρακαλούμε βεβαιωθείτε ότι έχετε διαβάσει προσεκτικά όλους τους όρους και τις προϋποθέσεις πριν υπογράψατε την τελική σύμβαση.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Παρακαλούμε βεβαιωθείτε ότι έχετε διαβάσει προσεκτικά όλους τους όρους και τις προϋποθέσεις πριν υπογράψετε την τελική σύμβαση.'
+[LLM Final Score]: 100%
+
+--- [Test 083] ---
+File: audio_files_ground_truth\083_audio.wav
+Truth: 'Η πρόσφατη οικονομική αναταραχή επηρέασε σημαντικά τις μικρομεσαίες επιχειρήσεις σε ολόκληρη την Ευρωπαϊκή Ένωση.'
+[Azure Result]:   'Η πρόσφατη οικονομική αναταραχή επηρέασε σημαντικά τις μικρομεσαίες επιχειρήσεις σε ολόκληρη την Ευρωπαϊκή Ένωση.'
+
+[Google Result]:   'η πρόσφατη οικονομική αναταραχή επηρέασε σημαντικά τις μικρομεσαίες επιχειρήσεις σε ολόκληρη την Ευρωπαϊκή Ένωση'
+
+[AssemblyAI Result]:   'Η πρόσφατη οικονομική αναταραχή επηρέασε σημαντικά τις μικρομεσαίες επιχειρήσεις σε ολόκληρη την Ευρωπαϊκή Ένωση.'
+
+[Whisper Result]:   'Η πρόσφατη οικονομική αναταραχή επηρέασε σημαντικά τις μικρομεσές επιχειρήσεις σε ολόκληρη την Ευρωπαϊκή Ένωση.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η πρόσφατη οικονομική αναταραχή επηρέασε σημαντικά τις μικρομεσαίες επιχειρήσεις σε ολόκληρη την Ευρωπαϊκή Ένωση.'
+[LLM Final Score]: 100%
+
+--- [Test 084] ---
+File: audio_files_ground_truth\084_audio.wav
+Truth: 'Η εταιρεία μας δεσμεύεται να παρέχει υπηρεσίες υψηλότατου επιπέδου, διατηρώντας παράλληλα την περιβαλλοντική βιωσιμότητα ως βασική αρχή.'
+[Azure Result]:   'Η εταιρεία μας δεσμεύεται να παρέχει υπηρεσίες υψηλότατου επιπέδου, διατηρώντας παράλληλα την περιβαλλοντική βιωσιμότητα ως βασική αρχή.'
+
+[Google Result]:   'η εταιρεία μας δεσμεύεται να παρέχει υπηρεσίες υψηλότατου επιπέδου διατηρώντας παράλληλα την περιβαλλοντική βιωσιμότητα ως βασική αρχή'
+
+[AssemblyAI Result]:   'Η εταιρεία μας δεσμεύεται να παρέχει υπηρεσίες υψηλότατου επιπέδου, διατηρώντας παράλληλα την περιβαλλοντική βιωσιμότητα ως βασική αρχή.'
+
+[Whisper Result]:   'Η εταιρία μας δεσμεύεται να παρέχει υπηρεσίες υψηλότα του επιπέδου, διατηρώντας παράλληλα την περιβαλλοντική βιωσιμότητα ως βασική αρχή.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η εταιρεία μας δεσμεύεται να παρέχει υπηρεσίες υψηλότατου επιπέδου, διατηρώντας παράλληλα την περιβαλλοντική βιωσιμότητα ως βασική αρχή.'
+[LLM Final Score]: 100%
+
+--- [Test 085] ---
+File: audio_files_ground_truth\085_audio.wav
+Truth: 'Η απομαγνητοφώνηση των πρακτικών της χθεσινής συνεδρίασης πρέπει να ολοκληρωθεί απαραιτήτως μέχρι το τέλος της εργάσιμης ημέρας.'
+[Azure Result]:   'Η απομαγνητοφώνηση των πρακτικών της χθεσινής συνεδρίασης πρέπει να ολοκληρωθεί απαραιτήτως μέχρι το τέλος της εργάσιμης ημέρας.'
+
+[Google Result]:   'η απομαγνητοφώνηση των πρακτικών της χθεσινής συνεδρίασης πρέπει να ολοκληρωθεί απαραιτήτως μέχρι το τέλος της εργάσιμης ημέρας'
+
+[AssemblyAI Result]:   'Η απομαγνητοφώνηση των πρακτικών της χθεσινής συνεδρίασης πρέπει να ολοκληρωθεί απαραίτητος μέχρι το τέλος της εργάσιμης ημέρας.'
+
+[Whisper Result]:   'η απομαγνήτοφόνηση των πρακτικών της χθεσυνής συναιδρίασης πρέπει να ολοκληρωθεί απαρετήτος μέχρι το τέλος της εργάσιμης ημέρας.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η απομαγνητοφώνηση των πρακτικών της χθεσινής συνεδρίασης πρέπει να ολοκληρωθεί απαραιτήτως μέχρι το τέλος της εργάσιμης ημέρας.'
+[LLM Final Score]: 100%
+
+--- [Test 086] ---
+File: audio_files_ground_truth\086_audio.wav
+Truth: 'Το νομικό πλαίσιο που διέπει την προστασία προσωπικών δεδομένων, ευρύτερα γνωστό ως GDPR, είναι εξαιρετικά αυστηρό και απαιτεί πλήρη συμμόρφωση.'
+[Azure Result]:   'Το νομικό πλαίσιο που διέπει την προστασία προσωπικών δεδομένων, ευρύτερα γνωστό ως GDPR, είναι εξαιρετικά αυστηρό και απαιτεί πλήρη συμμόρφωση.'
+
+[Google Result]:   'το νομικό πλαίσιο που διέπει την προστασία προσωπικών δεδομένων ευρύτερα γνωστός gpr είναι εξαιρετικά αυστηρό και απαιτεί πλήρη συμμόρφωση'
+
+[AssemblyAI Result]:   'Το νομικό πλαίσιο που διέπει την προστασία προσωπικών δεδομένων, ευρύτερα γνωστό ως GDPR, είναι εξαιρετικά αυστηρό και απαιτεί πλήρη συμμόρφωση.'
+
+[Whisper Result]:   'Το νομικό πλαίσιο που διέπει την προστασία προσωπικών δεδομένων, ευρύτερα γνωστός GDPR, είναι εξαιρετικά αυστηρό και απαιτή πλήρηση μόρφωση.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το νομικό πλαίσιο που διέπει την προστασία προσωπικών δεδομένων, ευρύτερα γνωστό ως GDPR, είναι εξαιρετικά αυστηρό και απαιτεί πλήρη συμμόρφωση.'
+[LLM Final Score]: 100%
+
+--- [Test 087] ---
+File: audio_files_ground_truth\087_audio.wav
+Truth: 'Η ικανότητα αναγνώρισης φωνής σε πραγματικό χρόνο, με χαμηλή καθυστέρηση, είναι θεμελιώδης για τη βελτίωση της συνολικής εμπειρίας του χρήστη.'
+[Azure Result]:   'Η ικανότητα αναγνώρισης φωνής σε πραγματικό χρόνο με χαμηλή καθυστέρηση είναι θεμελιώδης για τη βελτίωση της συνολικής εμπειρίας του χρήστη.'
+
+[Google Result]:   'ικανότητα αναγνώρισης φωνής σε πραγματικό χρόνο με χαμηλή καθυστέρηση είναι θεμελιώδεις για τη βελτίωση της συνολικής εμπειρίας του χρήστη'
+
+[AssemblyAI Result]:   'Η ικανότητα αναγνώρισης φωνής σε πραγματικό χρόνο με χαμηλή καθυστέρηση είναι θεμελιώδης για τη βελτίωση της συνολικής εμπειρίας του χρήστη.'
+
+[Whisper Result]:   'Η ικανότητα αναγνώρισης φωνής σε πραγματικό χρόνο με χαμηλή καθιστέριση είναι θεμελιόδης για τη βελτίωση της συνολικής εμπειρίας του Χρήστη.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η ικανότητα αναγνώρισης φωνής σε πραγματικό χρόνο με χαμηλή καθυστέρηση είναι θεμελιώδης για τη βελτίωση της συνολικής εμπειρίας του χρήστη.'
+[LLM Final Score]: 100%
+
+--- [Test 088] ---
+File: audio_files_ground_truth\088_audio.wav
+Truth: 'Οι προηγμένοι αλγόριθμοι μηχανικής μάθησης που χρησιμοποιούμε εκπαιδεύονται συνεχώς σε νέα, ποικιλόμορφα σύνολα δεδομένων για να βελτιώσουν την ακρίβειά τους.'
+[Azure Result]:   'Η προηγούμενη αλγόριθμοι μηχανικής μάθησης που χρησιμοποιούμε εκπαιδεύονται συνεχώς σε νέα ποικιλόμορφα σύνολα δεδομένων για να βελτιώσουν την ακρίβεια τους.'
+
+[Google Result]:   'οι προηγμένοι αλγόριθμοι μηχανικής μάθησης που χρησιμοποιούμε εκπαιδεύονται συνεχώς σε νέα ποικιλόμορφα σύνολα δεδομένων για να βελτιώσουν την ακρίβεια τους'
+
+[AssemblyAI Result]:   'Οι προηγμένοι αλγόριθμοι μηχανικής μάθησης που χρησιμοποιούμε εκπαιδεύονται συνεχώς σε νέα, ποικιλόμορφα σύνολα δεδομένων για να βελτιώσουν την ακρίβειά τους.'
+
+[Whisper Result]:   'Οι προηγμένοι αργόριθμοι μηχανικοίς μάθησης που χρησιμοποιούμε εκπαιδεύονται συνεχώς σε νέα, πυκυλόμορφα σύνολα δεδομένων για να βελτιώσουν την ακρίβειά τους.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Οι προηγμένοι αλγόριθμοι μηχανικής μάθησης που χρησιμοποιούμε εκπαιδεύονται συνεχώς σε νέα, ποικιλόμορφα σύνολα δεδομένων για να βελτιώσουν την ακρίβειά τους.'
+[LLM Final Score]: 100%
+
+--- [Test 089] ---
+File: audio_files_ground_truth\089_audio.wav
+Truth: 'Η στρατηγική μας για το επόμενο οικονομικό τρίμηνο περιλαμβάνει την επέκταση σε νέες αγορές και τη βελτιστοποίηση των εσωτερικών μας διαδικασιών.'
+[Azure Result]:   'Η στρατηγική μας για το επόμενο οικονομικό τρίμηνο περιλαμβάνει την επέκταση σε νέες αγορές και τη βελτιστοποίηση των εσωτερικών μας διαδικασιών.'
+
+[Google Result]:   'η στρατηγική μας για το επόμενο οικονομικό τρίμηνο περιλαμβάνει την επέκταση σε νέες αγορές και τη βελτιστοποίηση των Εσωτερικών μας διαδικασιών'
+
+[AssemblyAI Result]:   'Η στρατηγική μας για το επόμενο οικονομικό τρίμινο περιλαμβάνει την επέκταση σε νέες αγορές και τη βελτιστοποίηση των εσωτερικών μας διαδικασιών.'
+
+[Whisper Result]:   'Η στρατηγική μας για το επόμενο οικονομικό τρίμινο περιλαμβάνει την επέκταση σε νέες αγορές και την βελτιστοποίηση των εσωτερικών μας διαδικασιών.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η στρατηγική μας για το επόμενο οικονομικό τρίμηνο περιλαμβάνει την επέκταση σε νέες αγορές και τη βελτιστοποίηση των εσωτερικών μας διαδικασιών.'
+[LLM Final Score]: 100%
+
+--- [Test 090] ---
+File: audio_files_ground_truth\090_audio.wav
+Truth: 'Παρά τις αρχικές τεχνικές δυσκολίες που αντιμετωπίσαμε, το έργο ολοκληρώθηκε επιτυχώς εντός του προκαθορισμένου χρονοδιαγράμματος.'
+[Azure Result]:   'Παρά τις αρχικές τεχνικές δυσκολίες που αντιμετωπίσαμε το έργο ολοκληρώθηκε επιτυχώς εντός του προκαθορισμένου χρονοδιαγράμματος.'
+
+[Google Result]:   'παρά τις αρχικές τεχνικές δυσκολίες που αντιμετωπίσαμε το έργο ολοκληρώθηκε επιτυχώς εντός του προκαθορισμένου χρονοδιαγράμματος'
+
+[AssemblyAI Result]:   'Παρά τις αρχικές τεχνικές δυσκολίες που αντιμετωπίσαμε, το έργο ολοκληρώθηκε επιτυχώς εντός του προκαθορισμένου χρονοδιαγράμματος.'
+
+[Whisper Result]:   'Παρά τις αρχικές τεχνικές δυσκολίες που αντιμετωπίσαμε, το έργο ολοκληρώθηκε επιτυχώς εντός του προκαθορισμένου χρονοδιαγράμματος.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Παρά τις αρχικές τεχνικές δυσκολίες που αντιμετωπίσαμε, το έργο ολοκληρώθηκε επιτυχώς εντός του προκαθορισμένου χρονοδιαγράμματος.'
+[LLM Final Score]: 100%
+
+--- [Test 091] ---
+File: audio_files_ground_truth\091_audio.wav
+Truth: 'Η ανάλυση συναισθήματος (sentiment analysis) απευθείας από τον τονισμό της φωνής είναι ένα πολύπλοκο τεχνικό πρόβλημα που προσπαθούμε να λύσουμε.'
+[Azure Result]:   'Η ανάλυση συναισθήματος ανάλυσης απευθείας από τονισμό της φωνής είναι ένα πολύπλοκο τεχνικό πρόβλημα που προσπαθούμε να λύσουμε.'
+
+[Google Result]:   'Η ανάλυση συναισθήματος sentiment analysis απευθείας από τον τονισμό της φωνής είναι ένα πολύπλοκο τεχνικό πρόβλημα που προσπαθούμε να λύσουμε'
+
+[AssemblyAI Result]:   'Η ανάλυση συναισθήματος, sentiment analysis, απευθείας από τον τονισμό της φωνής, είναι ένα πολύπλοκο τεχνικό πρόβλημα που προσπαθούμε να λύσουμε.'
+
+[Whisper Result]:   'Η ανάληση συνεστήματος, sentiment-anàlysis, απευθείας από τον τονισμό της φωνής, είναι ένα πολύ πλοκοτεχνικό πρόβλημα που προσπαθούμε να λύσουμε.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η ανάλυση συναισθήματος, sentiment analysis, απευθείας από τον τονισμό της φωνής είναι ένα πολύπλοκο τεχνικό πρόβλημα που προσπαθούμε να λύσουμε.'
+[LLM Final Score]: 100%
+
+--- [Test 092] ---
+File: audio_files_ground_truth\092_audio.wav
+Truth: 'Το σύστημα απέτυχε να αναγνωρίσει σωστά την οντότητα, προκαλώντας ένα σφάλμα στην αλυσίδα επεξεργασίας των δεδομένων.'
+[Azure Result]:   'Το σύστημα απέτυχε να αναγνωρίσει σωστά την οντότητα, προκαλώντας ένα σφάλμα στην αλυσίδα επεξεργασίας των δεδομένων.'
+
+[Google Result]:   'το σύστημα απέτυχε να αναγνωρίσει σωστά την οντότητα προκαλώντας ένα σφάλμα στην αλυσίδα επεξεργασίας των δεδομένων'
+
+[AssemblyAI Result]:   'Το σύστημα απέτυχε να αναγνωρίσει σωστά την οντότητα, προκαλώντας ένα σφάλμα στην αλυσίδα επεξεργασίας των δεδομένων.'
+
+[Whisper Result]:   'Το σύστημα απέτυχε να αναγνωρίσει σωστά την οντότητα, προκαλώντας ένας φάλμα στην αλυσίδα επεξεργασίας των δεδομένων.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το σύστημα απέτυχε να αναγνωρίσει σωστά την οντότητα, προκαλώντας ένα σφάλμα στην αλυσίδα επεξεργασίας των δεδομένων.'
+[LLM Final Score]: 100%
+
+--- [Test 093] ---
+File: audio_files_ground_truth\093_audio.wav
+Truth: 'Οι υποψήφιοι για τη θέση πρέπει να διαθέτουν άριστη γνώση της αγγλικής γλώσσας και τουλάχιστον τριετή εμπειρία σε σχετικό τομέα.'
+[Azure Result]:   'Οι υποψήφιοι για τη θέση πρέπει να διαθέτουν άριστη γνώση της αγγλικής γλώσσας και τουλάχιστον τριετή εμπειρία σε σχετικό τομέα.'
+
+[Google Result]:   'Οι υποψήφιοι για τη θέση πρέπει να διαθέτουν άριστη γνώση της Αγγλικής γλώσσας και τουλάχιστον 3ετή εμπειρία σε σχετικό τομέα'
+
+[AssemblyAI Result]:   'Οι υποψήφιοι για τη θέση πρέπει να διαθέτουν άριστη γνώση της αγγλικής γλώσσας και τουλάχιστον τριετή εμπειρία σε σχετικό τομέα.'
+
+[Whisper Result]:   'Οι υποψύφοι για τη θέση πρέπει να διαθέτουν άρη στη γνώση της αγγλικής γλώσσας και τουλάχιστον τριετή εμπειρία σε σχετικό τομέα.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Οι υποψήφιοι για τη θέση πρέπει να διαθέτουν άριστη γνώση της αγγλικής γλώσσας και τουλάχιστον τριετή εμπειρία σε σχετικό τομέα.'
+[LLM Final Score]: 100%
+
+--- [Test 094] ---
+File: audio_files_ground_truth\094_audio.wav
+Truth: 'Η βελτιστοποίηση του μοντέλου speech-to-text για εξειδικευμένη ιατρική ορολογία αποτελεί την κύρια προτεραιότητά μας για αυτό το έτος.'
+[Azure Result]:   'Η βελτιστοποίηση του μοντέλου speak to text για εξειδικευμένη ιατρική ορολογία αποτελεί την κύρια προτεραιότητά μας για αυτό το έτος.'
+
+[Google Result]:   'η βελτιστοποίηση του μοντέλου speech to text για εξειδικευμένη ιατρική ορολογία αποτελεί την κύρια προτεραιότητά μας Για αυτό το έτος'
+
+[AssemblyAI Result]:   'Η βελτιστοποίηση του μοντέλου Speech-to-Text για εξειδικευμένη ιατρική ορολογία αποτελεί την κύρια προτεραιότητά μας για αυτό το έτος.'
+
+[Whisper Result]:   'Η βελτιστοποίηση του μοντέλου Speech to Text για εξιδικευμένη ιατρική ορολογία αποτελεί την κύρια προτερεότητά μας για αυτό το έτος.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η βελτιστοποίηση του μοντέλου Speech-to-Text για εξειδικευμένη ιατρική ορολογία αποτελεί την κύρια προτεραιότητά μας για αυτό το έτος.'
+[LLM Final Score]: 100%
+
+--- [Test 095] ---
+File: audio_files_ground_truth\095_audio.wav
+Truth: 'Το σύστημα πρέπει να είναι σε θέση να διακρίνει με σαφήνεια μεταξύ του κύριου ομιλητή και του θορύβου του περιβάλλοντος.'
+[Azure Result]:   'Το σύστημα πρέπει να είναι σε θέση να διακρίνει με σαφήνεια μεταξύ του κυρίου ομιλητή και του θορύβου του περιβάλλοντος.'
+
+[Google Result]:   'το σύστημα πρέπει να είναι σε θέση να διακρίνει με σαφήνεια μεταξύ του κυρίου ομιλητή και του θορύβου του περιβάλλοντος'
+
+[AssemblyAI Result]:   'Το σύστημα πρέπει να είναι σε θέση να διακρίνει με σαφήνεια μεταξύ του κυρίου ομιλητή και του θορύβου του περιβάλλοντος.'
+
+[Whisper Result]:   'Το σύστημα πρέπει να είναι σε θέση να διακρίνει μεσαφήνια μεταξύ του κυρίου ομιλητή και του θορύβου του περιβάλλοντος.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το σύστημα πρέπει να είναι σε θέση να διακρίνει με σαφήνεια μεταξύ του κυρίου ομιλητή και του θορύβου του περιβάλλοντος.'
+[LLM Final Score]: 98%
+
+--- [Test 096] ---
+File: audio_files_ground_truth\096_audio.wav
+Truth: 'Η υλοποίηση αυτής της νέας λειτουργικότητας απαιτεί στενή συνεργασία μεταξύ της ομάδας DevOps και των Data Scientists.'
+[Azure Result]:   'Η υλοποίηση αυτής της νέας λειτουργικότητας απαιτεί στενή συνεργασία μεταξύ της Ομάδας De Vox και των Data Scientists.'
+
+[Google Result]:   'υλοποίηση αυτής της νέας λειτουργικότητας απαιτεί στενή συνεργασία μεταξύ της ομάδας devops και το data scientist'
+
+[AssemblyAI Result]:   'Η υλοποίηση αυτής της νέας λειτουργικότητας απαιτεί στενή συνεργασία μεταξύ της ομάδας DevOps και των Data Scientists.'
+
+[Whisper Result]:   'Η λοπίση αυτής της νέας λειτουργικότητας απαιτήσει την συνεργασία μεταξύ της ομάδας DevOps και των Data Scientists.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η υλοποίηση αυτής της νέας λειτουργικότητας απαιτεί στενή συνεργασία μεταξύ της ομάδας DevOps και των Data Scientists.'
+[LLM Final Score]: 100%
+
+--- [Test 097] ---
+File: audio_files_ground_truth\097_audio.wav
+Truth: 'Η τηλεφωνική υποστήριξη πελατών πρόκειται να αυτοματοποιηθεί πλήρως με τη χρήση ενός προηγμένου, διαδραστικού voicebot.'
+[Azure Result]:   'Η τηλεφωνική υποστήριξη πελατών πρόκειται να αυτοματοποιηθεί πλήρως με τη χρήση ενός προηγμένου διαδραστικού voiceboth.'
+
+[Google Result]:   'η τηλεφωνική υποστήριξη πελατών πρόκειται να αυτοματοποιηθεί πλήρως με τη χρήση ενός προηγμένου διαδραστικού Voice'
+
+[AssemblyAI Result]:   'Η τηλεφωνική υποστήριξη πελατών πρόκειται να αυτοματοποιηθεί πλήρως με τη χρήση ενός προηγμένου διαδραστικού voicebot.'
+
+[Whisper Result]:   'Η τηλεφωνική υποστήριξη πελατών πρόκειται να αυτοματοποιηθεί πλήρος με τη χρήση ενός προηγμένου διαδραστικού voicebot.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η τηλεφωνική υποστήριξη πελατών πρόκειται να αυτοματοποιηθεί πλήρως με τη χρήση ενός προηγμένου διαδραστικού voicebot.'
+[LLM Final Score]: 100%
+
+--- [Test 098] ---
+File: audio_files_ground_truth\098_audio.wav
+Truth: 'Η ασφάλεια των ευαίσθητων δεδομένων των πελατών μας είναι αδιαπραγμάτευτη και τηρεί όλες τις σύγχρονες διεθνείς προδιαγραφές.'
+[Azure Result]:   'Η ασφάλεια των ευαίσθητων δεδομένων των πελατών μας είναι αδιαπραγμάτευτη και τηρεί όλες τις σύγχρονες διεθνείς προδιαγραφές.'
+
+[Google Result]:   'η ασφάλεια των ευαίσθητων δεδομένων των πελατών μας είναι αδιαπραγμάτευτη και τηρεί όλες τις σύγχρονες διεθνείς προδιαγραφές'
+
+[AssemblyAI Result]:   'Η ασφάλεια των ευαίσθητων δεδομένων των πελατών μας είναι αδιαπραγμάτευτη και τηρεί όλες τις σύγχρονες διεθνείς προδιαγραφές.'
+
+[Whisper Result]:   'η ασφάλεια των ευέσθητων δεδομένων των πελατών μας είναι αδιαπραγμάτευτη και τυρί όλες τις σύγχρονες διεθνής προδιαγραφές.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η ασφάλεια των ευαίσθητων δεδομένων των πελατών μας είναι αδιαπραγμάτευτη και τηρεί όλες τις σύγχρονες διεθνείς προδιαγραφές.'
+[LLM Final Score]: 100%
+
+--- [Test 099] ---
+File: audio_files_ground_truth\099_audio.wav
+Truth: 'Η τεχνητή νοημοσύνη, ειδικά στον τομέα της επεξεργασίας φυσικής γλώσσας, έχει τη δυνατότητα να μεταμορφώσει ριζικά τον τρόπο λειτουργίας μας.'
+[Azure Result]:   'Η τεχνητή νοημοσύνη, ειδικά στον τομέα της επεξεργασίας φυσικής γλώσσας, έχει τη δυνατότητα να μεταμορφώσει ριζικά τον τρόπο λειτουργίας μας.'
+
+[Google Result]:   'η τεχνητή νοημοσύνη ειδικά στον τομέα της επεξεργασίας φυσικής γλώσσας έχει τη δυνατότητα να μεταμορφώσει ριζικά τον τρόπο λειτουργίας μας'
+
+[AssemblyAI Result]:   'Η τεχνητή νοημοσύνη, ειδικά στον τομέα της επεξεργασίας φυσικής γλώσσας, έχει τη δυνατότητα να μεταμορφώσει ριζικά τον τρόπο λειτουργίας μας.'
+
+[Whisper Result]:   'Η τεχνητήνο ημωσύνη, ειδικά στον τομέα της επεξεργασίας φυσικής γλώσας, έχει τη δυνατότητα να μεταμορφώσει ρυζικά τον τρόπο λειτουργίας μας.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Η τεχνητή νοημοσύνη, ειδικά στον τομέα της επεξεργασίας φυσικής γλώσσας, έχει τη δυνατότητα να μεταμορφώσει ριζικά τον τρόπο λειτουργίας μας.'
+[LLM Final Score]: 100%
+
+--- [Test 100] ---
+File: audio_files_ground_truth\100_audio.wav
+Truth: 'Το σύστημα αναγνώρισης ομιλητή (speaker diarization) απέτυχε να ταυτοποιήσει σωστά τον δεύτερο ομιλητή λόγω κακής ποιότητας ήχου.'
+[Azure Result]:   'Το σύστημα αναγνώρισης ομιλητή special Diaratation απέτυχε να ταυτοποιήσει σωστά τον δεύτερο ομιλητή λόγω κακής ποιότητας ήχου.'
+
+[Google Result]:   'το σύστημα αναγνώρισης ομιλητή speaker dilatation απέτυχε να τακτοποιήσει σωστά τον δεύτερο ομιλητή λόγω κακής ποιότητας ήχου'
+
+[AssemblyAI Result]:   'Το σύστημα αναγνώρισης ομιλητή, speaker diarization, απέτυχε να ταυτοποιήσει σωστά τον δεύτερο ομιλητή λόγω κακής ποιότητας ήχου.'
+
+[Whisper Result]:   'Το σύστημα αναγνώρισης ομιλητή, Speaker Diarization, απέτυχε να ταυτοποιήσει σωστά τον δεύτερο ομιλητή λόγο κακή σπιότητα σύχου.'
+
+--- LLM Judge Correction ---
+[LLM Final Text]: 'Το σύστημα αναγνώρισης ομιλητή, speaker diarization, απέτυχε να ταυτοποιήσει σωστά τον δεύτερο ομιλητή λόγω κακής ποιότητας ήχου.'
+[LLM Final Score]: 100%
+
+
+--- [Final Results BENCHMARK] ---
+Totak Test executed : 100
+Avarge score (LLM Judge Method): 96.72%
